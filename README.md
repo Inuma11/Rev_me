@@ -1,2 +1,2 @@
 # Rev_me
-Simple Reverse Engineering  questions for lectures. 
+Simple Reverse Engineering for lectures. 
